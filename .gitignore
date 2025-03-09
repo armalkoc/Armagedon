@@ -1,2 +1,2 @@
-./idea/*
-./test_ignore/*
+.idea
+.test_ignore
